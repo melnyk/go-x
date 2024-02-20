@@ -1,0 +1,4 @@
+go.melnyk.org/concept v0.0.0-20231123052247-ac321cb7a788 h1:5akGFA8re/SP/TTaWxZM+BAsRx7OjkXsfgNFB9zsPA0=
+go.melnyk.org/concept v0.0.0-20231123052247-ac321cb7a788/go.mod h1:6fGgswI3GqKchmCY0QESazymuylZbqkekVd47A6OeQU=
+go.melnyk.org/mlog v1.0.2 h1:J0ELikcaNwxTL2Pt8+cr8l0gbPTzCQkD+zMApovtSR0=
+go.melnyk.org/mlog v1.0.2/go.mod h1:MwTJRDSxL/+1LVVn8tDiMzr138fb/awFnxWzXEvkxFI=
